@@ -1,5 +1,5 @@
-# Grade Your Code - Final Year Project (Bachelor Thesis)
-It was a long-term one year Final Year Project for my bachelors degree. All the learning of Computer Science concepts, theories and research have been applied in this project. 
+# Grade Your Code
+All the learning of Computer Science concepts, theories and research have been applied in this project. 
 
 ## Project Overview
 Grade Your Code is an online platform where teachers can
